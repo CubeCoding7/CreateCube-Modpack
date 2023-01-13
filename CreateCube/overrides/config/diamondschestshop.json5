@@ -1,0 +1,10 @@
+{
+	"shopProtectPlayerOpen": true,
+	"shopProtectPlayerBreak": true,
+	"shopProtectExplosion": true,
+	"shopProtectPiston": true,
+	"shopProtectHopper": true,
+	"shopProtectHopperMinecart": true,
+	"useBaseCommand": true,
+	"chestshopCommandName": "chestshop"
+}
