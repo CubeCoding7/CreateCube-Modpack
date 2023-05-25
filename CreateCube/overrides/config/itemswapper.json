@@ -1,10 +1,15 @@
 {
   "configVersion": 1,
+  "showTooltips": true,
   "toggleMode": false,
-  "showCursor": false,
+  "showCursor": true,
   "serverPreventModUsage": false,
-  "wipStyle": "SQUARE",
   "editMode": false,
   "creativeCheatMode": true,
-  "ignoreHotbar": true
+  "ignoreHotbar": true,
+  "unlockListMouse": false,
+  "disableShulkers": false,
+  "controllerSpeed": 8.0,
+  "mouseSpeed": 1.0,
+  "fallbackInventory": true
 }

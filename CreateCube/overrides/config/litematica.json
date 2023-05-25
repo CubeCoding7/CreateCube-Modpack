@@ -27,6 +27,7 @@
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceVanillaReach": false,
     "executeRequireHoldingTool": true,
+    "fixChestMirror": true,
     "fixRailRotation": true,
     "generateLowercaseNames": false,
     "highlightBlockInInventory": false,
@@ -61,7 +62,7 @@
     "commandNameSetblock": "setblock",
     "commandNameSummon": "summon",
     "commandTaskInterval": 1,
-    "customSchematicBaseDirectory": "C:\\Users\\Samuel\\AppData\\Roaming\\ATLauncher\\instances\\CreateCube\\schematics",
+    "customSchematicBaseDirectory": "C:\\Users\\sljoh\\AppData\\Roaming\\ATLauncher\\instances\\CreateCubeDevInst\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:stick"

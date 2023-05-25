@@ -6,6 +6,8 @@ mode = "fancy"
 [light_sources]
 	# Enable entities light source.
 	entities = true
+	# Enable first-person player light source.
+	self = true
 	# Enable block entities light source.
 	block_entities = true
 	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
@@ -22,57 +24,24 @@ mode = "fancy"
 			[light_sources.settings.entities.minecraft]
 				glow_item_frame = false
 				player = true
-				item = true
-				lightning_bolt = true
-				spider = true
-				creeper = true
-				zombie_villager = true
-				firework_rocket = true
-				villager = true
-				cat = true
-				goat = true
-				chest_minecart = true
-				cow = true
 				rabbit = true
-				horse = true
-				polar_bear = true
+				bat = true
+				skeleton = true
 				glow_squid = true
 				squid = true
-				zombie = true
-				skeleton = true
-				bat = true
-				cave_spider = true
-				salmon = true
-				enderman = true
-				witch = true
-				chicken = true
-				slime = true
-				sheep = true
-				fox = true
-				pig = true
-				bee = true
-				wolf = true
-				axolotl = true
+				creeper = true
 				drowned = true
-				dolphin = true
-				cod = true
-				tropical_fish = true
-				panda = true
-				parrot = true
-				ocelot = true
-				trident = true
-				donkey = true
-				arrow = true
+				zombie = true
+				spider = true
+				witch = true
+				enderman = true
 				iron_golem = true
-				husk = true
-				pufferfish = true
-				turtle = true
-				experience_orb = true
-				armor_stand = true
-				silverfish = true
-				stray = true
-
-			[light_sources.settings.entities.create]
-				super_glue = true
-				stationary_contraption = true
+				villager = true
+				item = true
+				chest_minecart = true
+				hoglin = true
+				piglin = true
+				zombified_piglin = true
+				strider = true
+				salmon = true
 

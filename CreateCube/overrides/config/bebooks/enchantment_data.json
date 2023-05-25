@@ -47,17 +47,9 @@
     "orderIndex": 4,
     "color": 13422037
   },
-  "create:potato_recovery": {
-    "orderIndex": 39,
-    "color": 12915514
-  },
   "minecraft:smite": {
     "orderIndex": 14,
     "color": 12541742
-  },
-  "create:capacity": {
-    "orderIndex": 40,
-    "color": 12915514
   },
   "minecraft:frost_walker": {
     "orderIndex": 9,
@@ -68,7 +60,7 @@
     "color": 1511968
   },
   "enchantedshulkers:refill": {
-    "orderIndex": 42,
+    "orderIndex": 40,
     "color": 12915514
   },
   "minecraft:punch": {
@@ -136,7 +128,7 @@
     "color": 7259313
   },
   "enchantedshulkers:siphon": {
-    "orderIndex": 41,
+    "orderIndex": 39,
     "color": 12915514
   },
   "minecraft:unbreaking": {
@@ -170,5 +162,13 @@
   "minecraft:channeling": {
     "orderIndex": 33,
     "color": 11466239
+  },
+  "create:potato_recovery": {
+    "orderIndex": 41,
+    "color": 12915514
+  },
+  "create:capacity": {
+    "orderIndex": 42,
+    "color": 12915514
   }
 }

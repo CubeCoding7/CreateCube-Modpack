@@ -4,6 +4,7 @@
   "button_hover_color": -1607454672,
   "hide_font_button": false,
   "hide_settings_button": false,
+  "symbol_tooltip_mode": "DELAYED",
   "hud_position": "RIGHT",
   "custom_symbols": "",
   "custom_kaomojis": []
